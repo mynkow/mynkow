@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1>
+<img src="https://github-readme-stats.vercel.app/api?username=alexplom&hide_border=true&theme=nord&show_icons=true&count_private=true" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexplom&layout=compact&hide_border=true&theme=nord&show_icons=true&count_private=true" />
+</h1>
 
 <!--
 **mynkow/mynkow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
