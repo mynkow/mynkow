@@ -1,7 +1,7 @@
 <h1>
-<img src="https://github-readme-stats.vercel.app/api?username=mynkow&hide_border=true&theme=nord&show_icons=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=mynkow&hide_border=true&theme=nord&show_icons=true&count_private=true&include_all_commits=true" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mynkow&layout=compact&hide_border=true&theme=nord&show_icons=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mynkow&layout=compact&hide_border=true&theme=nord&show_icons=true&count_private=true&include_all_commits=true" />
 </h1>
 
 <!--
